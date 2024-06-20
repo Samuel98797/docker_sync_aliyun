@@ -1,3 +1,1 @@
-nattertool/check:latest: registry.cn-hangzhou.aliyuncs.com/shrimp-images7868/natter_check
-nattertool/natter:latest: registry.cn-hangzhou.aliyuncs.com/shrimp-images7868/io01/natter
-tailscale/tailscale:latest: registry.cn-hangzhou.aliyuncs.com/shrimp-images7868/io01/tailscale
+jxxghp/moviepilot:latest: registry.cn-hangzhou.aliyuncs.com/shrimp-images7868/jxxghp/moviepilot
